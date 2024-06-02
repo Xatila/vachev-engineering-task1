@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { Card } from "@components";
+import type { Card } from "@components/card-view";
 
 import briefImage from "@assets/images/brief.png";
 import searchImage from "@assets/images/search.png";
