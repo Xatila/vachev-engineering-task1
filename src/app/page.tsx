@@ -1,9 +1,10 @@
 import { FC } from "react";
-import { Background } from "@components";
+import { Background, Dashboard } from "@components";
 
 const App: FC = () => (
   <main>
     <Background />
+    <Dashboard />
   </main>
 );
 
